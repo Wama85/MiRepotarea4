@@ -1,0 +1,12 @@
+#aritmetica-form{
+    width: 200px;
+    text-align: center;
+
+}
+#segundo-numero{
+    margin-bottom: 20px;
+}
+input{
+    border-radius: 10px;
+    height: 30px;
+}

@@ -12,7 +12,7 @@
     "cypress-run": "cypress run"
   },
   "author": "Israel Antezana R.",
-  "license": "ISC",
+   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
